@@ -132,20 +132,19 @@
       "name": "SegRWKV: Fast and Accurate Biomedical Image Segmentation via a Receptance-Weighted Key-Value Network",
       "publisher": "Journal of Computational Design and Engineering, 13(8), 196–211",
       "releaseDate": "2026-08",
-      "website": "https://doi.org/10.1093/jcde/qwag065",
-      "summary": "Tianyu Cao, Mingyao Ma, Haoxiang Zhang, Guoyuan Zhou, and Ruiheng Li. August 2026."
+      "website": "https://doi.org/10.1093/jcde/qwag065"
     },
     {
       "name": "SegDrift: Prior-Guided Semantic Drifting with Hard Negative Mining for Medical Image Segmentation",
       "publisher": "IEEE International Conference on Bioinformatics & Biomedicine (BIBM 2026)",
       "releaseDate": "2026",
-      "summary": "Tianyu Cao, Hongxi Xia, Mingyao Ma, Haoxiang Zhang, Guoyuan Zhou, and Ruiheng Li. Accepted."
+      "summary": "Accepted."
     },
     {
       "name": "Averaging Models Is Not Averaging Spectra: Steering Federated Representations",
       "publisher": "The Fifteenth International Conference on Learning Representations (ICLR 2027)",
       "releaseDate": "2027",
-      "summary": "Tianyu Cao, Hongxi Xia, Mingyao Ma, Haoxiang Zhang, Xinye Li, Guoyuan Zhou, and Ruiheng Li. Under review."
+      "summary": "Under review."
     }
   ],
   "presentations": [],
