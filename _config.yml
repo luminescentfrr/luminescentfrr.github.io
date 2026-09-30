@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Tianyu Cao"
 title_separator          : "-"
 name                     : &name "Tianyu Cao"
-description              : &description "Tianyu Cao's academic portfolio in computational biology and biomedical AI"
+description              : &description "Tianyu Cao's research in biomedical AI, representation learning, and computational biology"
 url                      : https://luminescentfrr.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "tianyu-cao.png"
   name             : "Tianyu Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate researcher in artificial intelligence at Hubei University of Economics, working on computational biology and biomedical AI."
+  bio              : "AI undergraduate researcher interested in interpretable biomedical modeling, representation reliability, and active learning."
   location         : "Wuhan, China"
   employer         : "Hubei University of Economics"
   uri              : "https://luminescentfrr.github.io"

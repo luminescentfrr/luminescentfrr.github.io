@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in Artificial Intelligence at **Hubei University of Economics** in Wuhan, China, expected to graduate in July 2027. I work as a research assistant at the Hubei Key Laboratory of Digital Finance Innovation with Associate Professor Ruiheng Li.
+I am an undergraduate student in Artificial Intelligence at **Hubei University of Economics** in Wuhan, China, and a research assistant at the Hubei Key Laboratory of Digital Finance Innovation.
 
-My research interests include **computational biology, generative modeling, representation learning, and biomedical AI**. My recent work spans medical image segmentation, federated representations, cold-start active learning, and safety-constrained generative modeling for partial cellular reprogramming.
+My research explores how AI can make biomedical data more interpretable and useful for scientific discovery. I have worked on efficient medical image segmentation, representation reliability under semantic and distribution shift, and cold-start active learning with unlabeled data.
 
-I have published work on efficient biomedical image segmentation in the *Journal of Computational Design and Engineering*. My work on semantic-drift-guided medical image segmentation was accepted at IEEE BIBM 2026, and a federated representation learning manuscript is under review at ICLR 2027.
+I am especially interested in generative and interpretable methods that can help turn complex biological measurements into testable research hypotheses.
 
 [View publications](/publications/) · [Read my CV](/cv/) · [GitHub](https://github.com/luminescentfrr)
