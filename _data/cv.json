@@ -1,152 +1,181 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Tianyu Cao",
+    "label": "Artificial Intelligence Undergraduate | Computational Biology and Biomedical AI",
+    "email": "tianyucao@email.hbue.edu.cn",
+    "phone": "+86 15926415821",
+    "website": "https://luminescentfrr.github.io",
+    "summary": "Undergraduate student in Artificial Intelligence at Hubei University of Economics and research assistant at the Hubei Key Laboratory of Digital Finance Innovation. Research interests: computational biology, generative modeling, representation learning, and biomedical AI.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Wuhan",
+      "countryCode": "China",
+      "region": "Hubei"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "luminescentfrr",
+        "url": "https://github.com/luminescentfrr"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Safety-Constrained Generative Modeling for Partial Cellular Reprogramming",
+      "company": "Hubei Key Laboratory of Digital Finance Innovation, Hubei University of Economics",
+      "role": "Research Assistant | Advisor: Associate Professor Ruiheng Li",
+      "startDate": "Jul 2026",
+      "endDate": "Present",
+      "summary": "Research on cellular rejuvenation while preserving cell identity.",
+      "highlights": [
+        "Study OSK/OSKM perturbations to balance rejuvenation with cell-identity preservation and biological safety.",
+        "Build a conditional flow-matching framework for continuous cell-state trajectories in multi-omics data and identify safe reprogramming windows.",
+        "Formulate safety-constrained counterfactual optimization and gene-attribution analyses to generate plausible trajectories while minimizing identity loss and risk."
+      ]
+    },
+    {
+      "position": "SegDrift: Prior-Guided Semantic Drifting for Medical Image Segmentation",
+      "company": "Hubei Key Laboratory of Digital Finance Innovation, Hubei University of Economics",
+      "role": "Research Assistant | Advisor: Associate Professor Ruiheng Li",
+      "startDate": "May 2026",
+      "endDate": "Jul 2026",
+      "summary": "Accepted at IEEE International Conference on Bioinformatics & Biomedicine (BIBM 2026).",
+      "highlights": [
+        "Introduced a DINOv3-guided semantic-drifting framework with a CLS calibration prior and prediction-aware hard-negative mining to address semantic inconsistencies overlooked by pixel-level losses.",
+        "Designed a single-step conditional generative process that avoids iterative sampling while preserving semantic consistency."
+      ]
+    },
+    {
+      "position": "Cold-Start Active Learning for Unlabeled Data",
+      "company": "Hubei Key Laboratory of Digital Finance Innovation, Hubei University of Economics",
+      "role": "Research Assistant | Advisor: Associate Professor Ruiheng Li",
+      "startDate": "Mar 2026",
+      "endDate": "Present",
+      "highlights": [
+        "Proposed MACS for high-value sample selection in cold-start active learning without labeled data.",
+        "Used C-RADIOv4 to extract semantic, structural, and segmentation-related information in a single forward pass, modeling uncertainty through cross-space inconsistency and multi-resolution features.",
+        "Developed adaptive clustering and non-uniform budget allocation for informative sample selection under limited annotation budgets."
+      ]
+    },
+    {
+      "position": "Federated Learning Theory",
+      "company": "Hubei Key Laboratory of Digital Finance Innovation, Hubei University of Economics",
+      "role": "Research Assistant | Advisor: Associate Professor Ruiheng Li",
+      "startDate": "Feb 2026",
+      "endDate": "Jun 2026",
+      "highlights": [
+        "Studied JointCloud federated learning for privacy-preserving, cross-institutional medical image segmentation and identified persistent representation drift under non-IID data despite parameter-level correction.",
+        "Developed a representation-level account of Spectral Representation Collapse using von Neumann entropy to quantify residual performance gaps; manuscript submitted to ICLR 2027."
+      ]
+    },
+    {
+      "position": "RWKV-Based Medical Image Segmentation (SegRWKV)",
+      "company": "Hubei Key Laboratory of Digital Finance Innovation, Hubei University of Economics",
+      "role": "Research Assistant | Advisor: Associate Professor Ruiheng Li",
+      "startDate": "Sep 2025",
+      "endDate": "Jan 2026",
+      "highlights": [
+        "Proposed an efficient dense-prediction network with a hybrid CNN–RWKV encoder and lightweight decoder for long-range dependency modeling and feature reconstruction.",
+        "Achieved 4.8× faster inference and 4.5× lower memory usage, with DSC/F1 improvements of 4–22% over CNNs, 8–58% over Transformers, 1–8% over Mamba, and 10–27% over RWKV-UNet.",
+        "Published in the Journal of Computational Design and Engineering."
+      ]
+    },
+    {
+      "position": "Physics-Inspired Medical Image Segmentation (EMG-UNet)",
+      "company": "Hubei Key Laboratory of Digital Finance Innovation, Hubei University of Economics",
+      "role": "Research Assistant | Advisor: Associate Professor Ruiheng Li",
+      "startDate": "Jun 2025",
+      "endDate": "Nov 2025",
+      "highlights": [
+        "Proposed a heat-diffusion-inspired segmentation framework with interpretable feature propagation and edge enhancement for anatomical structure and boundary modeling.",
+        "Designed and evaluated an efficient encoder–decoder across multiple medical image segmentation datasets."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Hubei University of Economics",
+      "area": "Bachelor of Engineering in Artificial Intelligence",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "Sep 2023",
+      "endDate": "Jul 2027 (Expected)",
+      "gpa": "3.41/4.00; Major Core GPA: 3.70/4.00",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Machine Learning",
+      "keywords": ["PyTorch", "MONAI", "nnU-Net", "MMCV", "Generative Modeling", "Representation Learning", "OpenCLIP", "DINOv3", "C-RADIOv4"]
+    },
+    {
+      "name": "Scientific Computing",
+      "keywords": ["Python", "C", "NumPy", "Pandas", "Scanpy", "AnnData"]
+    },
+    {
+      "name": "Systems and Development",
+      "keywords": ["Linux", "FastAPI", "Electron", "LangGraph", "Tree-sitter", "LaTeX"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": ["Computational Biology", "Generative Modeling", "Representation Learning", "Biomedical AI"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "SegRWKV: Fast and Accurate Biomedical Image Segmentation via a Receptance-Weighted Key-Value Network",
+      "publisher": "Journal of Computational Design and Engineering, 13(8), 196–211",
+      "releaseDate": "2026-08",
+      "website": "https://doi.org/10.1093/jcde/qwag065",
+      "summary": "Tianyu Cao, Mingyao Ma, Haoxiang Zhang, Guoyuan Zhou, and Ruiheng Li. August 2026."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "SegDrift: Prior-Guided Semantic Drifting with Hard Negative Mining for Medical Image Segmentation",
+      "publisher": "IEEE International Conference on Bioinformatics & Biomedicine (BIBM 2026)",
+      "releaseDate": "2026",
+      "summary": "Tianyu Cao, Hongxi Xia, Mingyao Ma, Haoxiang Zhang, Guoyuan Zhou, and Ruiheng Li. Accepted."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Averaging Models Is Not Averaging Spectra: Steering Federated Representations",
+      "publisher": "The Fifteenth International Conference on Learning Representations (ICLR 2027)",
+      "releaseDate": "2027",
+      "summary": "Tianyu Cao, Hongxi Xia, Mingyao Ma, Haoxiang Zhang, Xinye Li, Guoyuan Zhou, and Ruiheng Li. Under review."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "MultiAgent-Based CodeReviewer",
+      "category": "Selected Project",
+      "date": "Mar 2026 – Jul 2026",
+      "url": "https://github.com/luminescentfrr",
+      "description": "AI-powered desktop application for multi-file code review and conversational repair. Six LangGraph expert agents coordinate issue deduplication and conflict resolution. Integrates Tree-sitter project analysis, cross-file symbol search, static analysis, test execution, automated editing, and rollback with a FastAPI/SSE backend and Electron interface."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honorable Mention, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)",
+      "date": "May 2025"
+    },
+    {
+      "title": "Third Prize (Provincial Level), Blue Bridge Cup (Software Competition)",
+      "date": "May 2025"
+    },
+    {
+      "title": "Second Prize (Provincial Level), Chinese Collegiate Computing Competition",
+      "date": "May 2026"
+    },
+    {
+      "title": "Canglong Student Scholarship (awarded to the top 15% of students)",
+      "date": "2024, 2025, and 2026 Academic Years"
     }
   ]
 }
+
